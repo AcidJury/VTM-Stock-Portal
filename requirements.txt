@@ -191,7 +191,6 @@ sqlparse==0.2.4
 st-annotated-text==4.0.0
 stack-data==0.6.3
 statsmodels==0.14.0
-streamlit==1.29.0
 streamlit-aggrid==0.3.4.post3
 streamlit-camera-input-live==0.2.0
 streamlit-card==0.0.61
