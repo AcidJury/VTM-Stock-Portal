@@ -1,0 +1,12 @@
+[server]
+headless = true
+port = $PORT
+enableCORS = false
+
+[theme]
+base = "dark"
+
+[source]
+git = "https://github.com/AcidJury/VTM-Stock-Portal.git"
+
+[install]
